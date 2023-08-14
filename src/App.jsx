@@ -19,7 +19,7 @@ const post = [
       {
         type: "paragraph",
         content:
-          "Acabei de subir mais um projeto no meu portifólio. É um projeto que fiz no depois do curso no Rocketseat. O nome do projeto é DoctorCare 🚀",
+          "Acabei de subir mais um projeto no meu portifólio. É um projeto que fiz no depois do curso no Rocketseat. O nome do projeto é New TypScript 🚀",
       },
 
       { type: "link", content: "hercules.design/myportifolio" },
