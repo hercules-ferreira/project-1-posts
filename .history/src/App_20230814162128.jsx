@@ -22,7 +22,7 @@ const post = [
           "Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no depois do curso no Rocketseat. O nome do projeto é DoctorCare 🚀",
       },
 
-      { type: "link", content: "jane.design/doctorcare" },
+      { type: "link", content: "hercules.design/myportifolio" },
     ],
     publishedAt: new Date("2023-08-01 20:10:25"),
   },
@@ -44,7 +44,7 @@ const post = [
           "Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀",
       },
 
-      { type: "link", content: "jane.design/doctorcare" },
+      { type: "link", content: "hercules.design/myportifolio" },
     ],
     publishedAt: new Date("2023-08-03 20:10:25"),
   },
