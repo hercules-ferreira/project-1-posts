@@ -25,7 +25,7 @@ export function Comment({ content, onDeleteComment }) {
           <div className={styles.commentContent}>
             <header>
               <div className={styles.authorAndTime}>
-                <strong>Helton Soares</strong>
+                <strong>Hercules Ferreira</strong>
                 <time
                   title="11 de Maio às 08:35h"
                   dateTime="2023-05-11 08:35:40"

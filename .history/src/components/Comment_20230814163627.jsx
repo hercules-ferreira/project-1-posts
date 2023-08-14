@@ -1,4 +1,5 @@
 import { useState } from "react";
+import Avatar from "./Avatar/Avatar";
 import Comments from "../assets/comment.jpg";
 import styles from "./Comment.module.css";
 import { ThumbsUp, Trash } from "phosphor-react";
@@ -19,13 +20,17 @@ export function Comment({ content, onDeleteComment }) {
   return (
     <>
       <div className={styles.comment}>
-        <img className={styles.comments} src={Comments} />
+
+<img className={styles.comments} src={Comments} />
+        {/* <Avatar src="https://github.com/hercules-ferreira.png" /> */}
+
+
 
         <div className={styles.commentBox}>
           <div className={styles.commentContent}>
             <header>
               <div className={styles.authorAndTime}>
-                <strong>Helton Soares</strong>
+                <strong>Hercules Ferreira</strong>
                 <time
                   title="11 de Maio às 08:35h"
                   dateTime="2023-05-11 08:35:40"
