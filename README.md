@@ -15,7 +15,7 @@ Acompanhe os novos Commits das tecnologias que estou aperfeiçoando</span>
 
 📜 Para a confecção do site, as principais ferramentas utilizadas, foram:
 
-
+<kbd>***React***</kbd> | <kbd>***Vite***</kbd>
 
 ```javascript
 |         Javascript            |
