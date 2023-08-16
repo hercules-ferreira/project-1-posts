@@ -23,8 +23,6 @@ Acompanhe os novos Commits das tecnologias que estou aperfeiçoando</span>
 | React                         |
 | Vite                          |
 
-
-
 ```
 
 
@@ -66,5 +64,6 @@ Contate me através do github
 **Happy coding!** :heart:
 
  <br>
+
 
 [Back to top](#faqs)
