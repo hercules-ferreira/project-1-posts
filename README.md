@@ -5,6 +5,7 @@ Project - Posts</h2>
 <h2><span style="color:blue">
 Conheça Todas etapas desse Novo projeto</span></h2>
 
+<img src="icon.png" align="right" />
 
 <span style="color:blue">
 Acompanhe os novos Commits das tecnologias que estou aperfeiçoando</span>
@@ -12,7 +13,6 @@ Acompanhe os novos Commits das tecnologias que estou aperfeiçoando</span>
 <h1><span style="color:blue">
 <font size=30>Índice e Etapas Construídas</font></span></h1>
 
-<img src="icon.png" align="right" />
 📜 Para a confecção do site, as principais ferramentas utilizadas, foram:
 
 
